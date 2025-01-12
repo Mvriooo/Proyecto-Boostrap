@@ -16,8 +16,6 @@ p{
   font-style: normal;
 }
 
-
-
 footer{
     background-color: var(--main-color);
 }
@@ -39,12 +37,16 @@ body{
     color: white;
 }
 
+.clear{
+    background-color: rgb(57, 57, 57);
+}
+
 .navbar{
     background-color: white;
 }
 
 a{
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .banner-contenedor {
@@ -83,4 +85,13 @@ h1{
 .card:hover{
     transform: translateY(-10px); 
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+}
+
+.cont{
+    background-color: #98D3F1;
+    border-radius: 1.5em;
+}
+
+.bord{
+    border-radius: 1.5em;
 }

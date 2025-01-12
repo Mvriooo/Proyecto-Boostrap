@@ -1,0 +1,26 @@
+.highlight-bg {
+    background-color: #98D3F1;
+}
+
+.highlight-text {
+    color: #98D3F1;
+}
+
+.rounded-circle-custom {
+    background-color: #98D3F1;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+}
+
+.card-custom {
+    border: 1px solid #98D3F1;
+}
+
+.card-custom .card-body {
+    background-color: #F0FAFF;
+}
